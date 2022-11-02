@@ -1,4 +1,3 @@
 Users
 Client
 Admin
-Moderator
