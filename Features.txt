@@ -1,0 +1,52 @@
+Feature summary
+1. Sign up
+2. login
+3. Page add/remove
+4. Data crawling
+5. Data summary
+6. Data analysis
+7. Reporting
+8. Mailing service
+9. Subscription
+
+User journey
+
+***Referred to flow chart
+
+What can we get from facebook?
+
+1. Posts (own page/ other's page)
+2. Comments (own page/ other's page)
+3. Reply (own page/ other's page)
+4. User messages in your page's inbox
+5. Reply user messages
+6. Repy user comments
+
+
+What we can offer?
+1. Provide user his/her own data
+2. provide market/competitor's data
+3. sentiment analysis of customers
+4. Customer opinion on products
+5. Market analysis
+6. Customer requirement analysis
+7. Issue tracking
+8. Fast communication with customers(comments/inbox)
+9. Page engagement report(daily, weekly, monthly)
+10. Multiple reports based on online data
+11. Daily analysis report email service
+12. Market position of the user's business
+13. Daily, monthly, yearly trend reports
+13.1. User engagement
+13.2. Issue trend
+13.3. Requirement trend
+13.4. Trend comparison
+14. User information to target users for promotion
+ 
+
+
+
+
+
+
+
